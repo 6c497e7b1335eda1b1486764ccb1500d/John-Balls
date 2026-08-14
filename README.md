@@ -1,2 +1,2 @@
 # John-Balls
-This is the bestsest of the best.
+Vercel site for my Amigo that does not know how to code.
